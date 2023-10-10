@@ -1,0 +1,30 @@
+.mask-group-icon24 {
+  position: relative;
+  width: 372px;
+  height: 270.41px;
+  object-fit: cover;
+}
+.cancer-screening {
+  position: relative;
+}
+.service-card {
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    180deg,
+    #c5dcff,
+    rgba(197, 220, 255, 0.5) 96.88%,
+    rgba(196, 196, 196, 0)
+  );
+  box-shadow: -1px 21px 60px 15px rgba(144, 131, 213, 0.35);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xl);
+  gap: var(--gap-3xl);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}

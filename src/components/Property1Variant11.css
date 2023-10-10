@@ -1,0 +1,62 @@
+.category-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--light-background-color);
+  box-shadow: var(--drop-shadow);
+}
+.image-27-icon,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+}
+.image-27-icon {
+  object-fit: cover;
+}
+.rectangle-div {
+  background-color: var(--color-mediumpurple);
+  mix-blend-mode: lighten;
+}
+.image-27-parent {
+  position: absolute;
+  height: 60%;
+  width: 60%;
+  top: 20%;
+  right: 20%;
+  bottom: 20%;
+  left: 20%;
+}
+.category {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.dermatology {
+  flex: 1;
+  position: relative;
+  line-height: 140%;
+  display: flex;
+  align-items: center;
+  height: 54px;
+}
+.property-1variant11 {
+  height: 116px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-inter);
+  align-self: stretch;
+}

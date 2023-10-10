@@ -1,0 +1,210 @@
+.h2-section-title-1-sec-8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+  display: inline-block;
+  width: 1145px;
+}
+.h2-section-title-1-sec-wrapper {
+  align-self: stretch;
+  position: relative;
+  height: 50px;
+}
+.accompanying-sep490-general {
+  margin-block-start: 0;
+  margin-block-end: 20px;
+}
+.during-10-years {
+  margin: 0;
+}
+.paragraph-sec-5 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  font-family: var(--font-inter);
+  text-align: justify;
+}
+.category-frame,
+.category7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.category7 {
+  gap: var(--gap-9xl);
+}
+.category-frame {
+  background: linear-gradient(35.77deg, #9083d5, #807593);
+  padding: var(--padding-31xl) var(--padding-37xl);
+}
+.h2-section-title-1-sec-9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+}
+.group-item {
+  position: absolute;
+  top: 55px;
+  left: 1072px;
+  width: 0;
+  height: 1px;
+}
+.h2-section-title-1-sec-group {
+  position: relative;
+  width: 1072px;
+  height: 55px;
+}
+.paragraph-sec-6 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: justify;
+  display: inline-block;
+  width: 1072px;
+}
+.category-wrapper1,
+.category8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.category-wrapper1 {
+  background-color: var(--color-silver);
+  padding: var(--padding-31xl) var(--padding-37xl);
+  color: var(--text-color);
+}
+.paragraph-sec-7 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.2px;
+  line-height: 26px;
+  font-family: var(--font-inter);
+  color: var(--color-gray-200);
+  text-align: justify;
+}
+.category-wrapper2,
+.category9 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.category9 {
+  width: 1098px;
+  align-items: flex-start;
+}
+.category-wrapper2 {
+  align-self: stretch;
+  background-color: var(--color-silver);
+  align-items: center;
+  padding: var(--padding-31xl) var(--padding-37xl);
+  color: var(--text-color);
+}
+.image-9-icon1 {
+  position: relative;
+  width: 445px;
+  height: 428px;
+  object-fit: cover;
+}
+.paragraph-sec-8 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 26px;
+}
+.rectangle4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-15xl-5);
+  background-color: var(--light-background-color);
+  border: 1px solid var(--light-background-color);
+  box-sizing: border-box;
+}
+.create-appointment-n3 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 10.5px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.flatprimary3 {
+  position: relative;
+  width: 370.96px;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--dark-pink);
+  font-family: var(--font-lato);
+}
+.image-9-group,
+.paragraph-sec-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.paragraph-sec-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-14xl);
+}
+.image-9-group {
+  flex-direction: row;
+  gap: var(--gap-9xl);
+  text-align: justify;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-inter);
+}
+.row4 {
+  width: 1044px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container9,
+.content11 {
+  overflow-y: auto;
+  flex-shrink: 0;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.container9 {
+  width: 1257px;
+  height: 2314px;
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-31xl) var(--padding-0) var(--padding-xl);
+  gap: var(--gap-35xl);
+}
+.content11 {
+  width: 1440px;
+  height: 1640px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-0) var(--padding-81xl);
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--light-background-color);
+  font-family: var(--h6);
+}

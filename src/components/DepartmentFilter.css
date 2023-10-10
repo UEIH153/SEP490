@@ -1,0 +1,167 @@
+.h2-section-title-1-sec-5,
+.paragraph-sec-3 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+}
+.paragraph-sec-3 {
+  font-size: var(--h6-size);
+  line-height: 20px;
+  background: linear-gradient(35.77deg, #9083d5, #807593);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.main-content4 {
+  width: 691px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--text-color);
+  font-family: var(--h6);
+}
+.category-child2 {
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  width: 1072px;
+  height: 1px;
+}
+.general2 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  width: 96.45px;
+  height: 36.17px;
+  flex-shrink: 0;
+}
+.category-icon5 {
+  position: relative;
+  border-radius: var(--br-base);
+  width: 246.6px;
+  height: 230.52px;
+}
+.dentist1 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  width: 88.41px;
+  height: 36.17px;
+  flex-shrink: 0;
+}
+.dentist {
+  width: 128.6px;
+  height: 164.77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base);
+}
+.psychiatrist1 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  width: 144.67px;
+  height: 36.17px;
+  flex-shrink: 0;
+}
+.psychiatrist {
+  width: 144.67px;
+  height: 164.77px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-0)
+    0.000028521100830403157px;
+  box-sizing: border-box;
+  gap: var(--gap-base);
+}
+.row-1 {
+  width: 1072px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-2xl);
+}
+.cardiologist,
+.surgeon1 {
+  position: relative;
+  line-height: 140%;
+  display: inline-block;
+  width: 112.52px;
+  height: 36.17px;
+  flex-shrink: 0;
+}
+.surgeon1 {
+  width: 104.49px;
+}
+.category6,
+.row-3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.row-3 {
+  width: 1072px;
+  flex-direction: row;
+  padding: var(--padding-0) var(--padding-146xl);
+  box-sizing: border-box;
+  gap: var(--gap-2xl);
+}
+.category6 {
+  flex-direction: column;
+  gap: var(--gap-9xl);
+}
+.paragraph-sec-4 {
+  position: relative;
+  text-decoration: underline;
+  letter-spacing: 0.2px;
+  line-height: 20px;
+  font-weight: 600;
+  background: linear-gradient(35.77deg, #9083d5, #807593);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 1027px;
+}
+.main-content5 {
+  width: 1050px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: right;
+  font-size: var(--h5-size);
+  font-family: var(--h6);
+}
+.category-parent,
+.container5 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.category-parent {
+  background-color: var(--color-silver);
+  padding: var(--padding-31xl) var(--padding-81xl);
+  gap: var(--gap-3xs);
+}
+.container5 {
+  width: 1440px;
+  height: 782px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: var(--padding-xl) var(--padding-0);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-smi);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-inter);
+}

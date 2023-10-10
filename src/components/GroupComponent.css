@@ -1,0 +1,26 @@
+.sep490-hospital {
+  position: absolute;
+  top: 17.5%;
+  left: 19.92%;
+  font-weight: 600;
+}
+.standard-collection-12 {
+  position: absolute;
+  height: 120%;
+  width: 20.34%;
+  top: 0;
+  right: 81.36%;
+  bottom: -20%;
+  left: -1.69%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sep490-hospital-parent {
+  width: 236px;
+  height: 40px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}

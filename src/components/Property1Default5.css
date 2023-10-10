@@ -1,0 +1,27 @@
+.property-1default-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.property-1default-item {
+  position: absolute;
+  height: 45.34%;
+  width: 30.77%;
+  top: 26.7%;
+  right: 35.86%;
+  bottom: 27.96%;
+  left: 33.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.property-1default5 {
+  width: 76px;
+  height: 83px;
+}

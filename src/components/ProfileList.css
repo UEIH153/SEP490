@@ -1,0 +1,35 @@
+.body,
+.body1 {
+  position: relative;
+  line-height: 27px;
+}
+.body {
+  display: inline-block;
+  width: 150px;
+  flex-shrink: 0;
+}
+.body1 {
+  flex: 1;
+  text-align: justify;
+}
+.body-parent,
+.profile-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+}
+.body-parent {
+  flex: 1;
+  gap: var(--gap-base);
+}
+.profile-list {
+  height: 94px;
+  padding: var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--neutral-600);
+  font-family: var(--font-inter);
+}

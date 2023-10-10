@@ -1,0 +1,46 @@
+.mask-group-icon26 {
+  position: relative;
+  width: 434.25px;
+  height: 292px;
+  object-fit: cover;
+}
+.vaccination {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mask-group-parent22 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-21xl);
+  background: linear-gradient(
+    180deg,
+    #c5dcff,
+    rgba(197, 220, 255, 0.5) 96.88%,
+    rgba(196, 196, 196, 0)
+  );
+  box-shadow: -1px 21px 60px 15px rgba(144, 131, 213, 0.35);
+  width: 437px;
+  height: 381px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-3xl);
+}
+.service-card2 {
+  position: relative;
+  width: 437px;
+  height: 381px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}

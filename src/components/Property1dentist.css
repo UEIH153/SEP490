@@ -1,0 +1,51 @@
+.category-child1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-base);
+  background-color: var(--light-background-color);
+  box-shadow: var(--drop-shadow);
+}
+.icon-dentist {
+  position: absolute;
+  height: 42.07%;
+  width: 40%;
+  top: 29%;
+  right: 30%;
+  bottom: 28.93%;
+  left: 30%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.category3 {
+  position: relative;
+  width: 100px;
+  height: 100px;
+}
+.dentistry,
+.property-1dentist {
+  display: flex;
+  align-items: center;
+}
+.dentistry {
+  position: relative;
+  line-height: 140%;
+  width: 211px;
+  height: 54px;
+  flex-shrink: 0;
+}
+.property-1dentist {
+  height: 116px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-inter);
+}

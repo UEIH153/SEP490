@@ -1,0 +1,98 @@
+.arrows-chevron-down-2-24px {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.arrows-chevron-down-2-24px-wrapper {
+  border-radius: var(--br-base);
+  background-color: var(--f4f5f7);
+  width: 48px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+  transform: rotate(-180deg);
+  transform-origin: 0 0;
+}
+.div {
+  position: relative;
+  font-weight: 500;
+}
+.wrapper {
+  border-radius: var(--br-7xs);
+  background-color: var(--color-royalblue-200);
+  width: 44px;
+  height: 44px;
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+}
+.div1 {
+  position: relative;
+  font-weight: 500;
+  background: linear-gradient(35.77deg, #9083d5, #807593);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.frame,
+.frame-parent1 {
+  display: flex;
+  flex-direction: row;
+}
+.frame {
+  border-radius: var(--br-base);
+  width: 48px;
+  height: 48px;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+}
+.frame-parent1 {
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--h6-size);
+  color: var(--a9);
+}
+.arrows-chevron-down-2-24px-container {
+  border-radius: var(--br-base);
+  background-color: var(--f4f5f7);
+  width: 48px;
+  height: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-5xl);
+  box-sizing: border-box;
+}
+.frame-div,
+.property-1default2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.frame-div {
+  flex: 1;
+  justify-content: space-between;
+}
+.property-1default2 {
+  width: 547px;
+  height: 84px;
+  justify-content: center;
+  padding: var(--padding-lg);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--h5-size);
+  color: var(--b72ff);
+  font-family: var(--font-inter);
+}

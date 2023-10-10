@@ -1,0 +1,88 @@
+.h2-section-title-1-sec-6 {
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+  display: inline-block;
+  width: 833px;
+}
+.main-content6 {
+  align-self: stretch;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-icon {
+  position: relative;
+  width: 603px;
+  height: 412px;
+  object-fit: cover;
+}
+.container-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-0) var(--padding-11xl);
+}
+.the-premium-comprehensive {
+  margin-block-start: 0;
+  margin-block-end: 25px;
+}
+.general-information-about {
+  margin-bottom: 0;
+}
+.general-information-about-the {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.this-health-checkup {
+  margin: 0;
+}
+.h2-section-title-1-sec-container {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.2px;
+  line-height: 40px;
+  font-weight: 500;
+}
+.main-content7,
+.row3 {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.main-content7 {
+  align-self: stretch;
+  height: 2650px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: justify;
+  font-size: var(--font-inherit);
+  color: var(--neutral-600);
+  font-family: var(--font-inherit);
+}
+.row3 {
+  width: 1044px;
+}
+.container7 {
+  width: 826px;
+  height: 1575px;
+  overflow-y: auto;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-31xl) var(--padding-0) var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-35xl);
+  text-align: left;
+  font-size: var(--h2-size);
+  color: var(--text-color);
+  font-family: var(--h6);
+}

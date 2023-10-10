@@ -1,0 +1,77 @@
+.mask-group-icon27 {
+  height: 100%;
+  width: 44.22%;
+  right: 55.78%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.mask-group-icon27,
+.mbbsmdidccm24,
+.silva-admp24 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.mbbsmdidccm24 {
+  height: 35.22%;
+  width: 100%;
+  top: 64.78%;
+  font-size: var(--font-size-3xs);
+  color: var(--dark-pink);
+  display: flex;
+  align-items: center;
+}
+.silva-admp-parent22 {
+  position: absolute;
+  height: 34.95%;
+  width: 36.73%;
+  top: 5.82%;
+  right: 12.24%;
+  bottom: 59.23%;
+  left: 51.02%;
+}
+.mask-group-parent23 {
+  position: absolute;
+  height: 100%;
+  width: 24.77%;
+  top: 0;
+  right: 75.23%;
+  bottom: 0;
+  left: 0;
+}
+.frame-parent9,
+.mask-group-parent24,
+.mask-group-parent25,
+.mask-group-parent26 {
+  position: absolute;
+  height: 100%;
+  width: 24.77%;
+  top: 0;
+  right: 50.25%;
+  bottom: 0;
+  left: 24.97%;
+}
+.frame-parent9,
+.mask-group-parent25,
+.mask-group-parent26 {
+  right: 25.18%;
+  left: 50.05%;
+}
+.frame-parent9,
+.mask-group-parent26 {
+  right: 0;
+  left: 75.23%;
+}
+.frame-parent9 {
+  height: 27.37%;
+  width: 100%;
+  bottom: 72.63%;
+  left: 0;
+  text-align: left;
+  font-size: var(--h6-size);
+  color: var(--black);
+  font-family: var(--font-roboto);
+}

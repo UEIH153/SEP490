@@ -1,0 +1,27 @@
+.category-icon {
+  position: relative;
+  width: 179px;
+  height: 218px;
+}
+.covid-19,
+.property-1covid {
+  display: flex;
+  align-items: center;
+}
+.covid-19 {
+  position: relative;
+  line-height: 140%;
+  width: 211px;
+  height: 54px;
+  flex-shrink: 0;
+}
+.property-1covid {
+  height: 116px;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkgray-100);
+  font-family: var(--font-inter);
+}

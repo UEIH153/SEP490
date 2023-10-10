@@ -1,0 +1,112 @@
+.image-9-icon2 {
+  position: relative;
+  width: 243px;
+  height: 234px;
+  object-fit: cover;
+}
+.h2-section-title-1-sec-12 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.2px;
+  line-height: 50px;
+  display: inline-block;
+}
+.cardtitle {
+  position: relative;
+  width: 555px;
+  height: 50px;
+  font-size: var(--font-size-11xl);
+  color: var(--black);
+  font-family: var(--h6);
+}
+.blue,
+.gray {
+  position: absolute;
+  height: calc(100% - 4px);
+  width: calc(100% - 24px);
+  top: 2px;
+  right: 12px;
+  bottom: 2px;
+  left: 12px;
+  border-radius: var(--br-9xs);
+  background-color: var(--tap-1);
+  display: none;
+}
+.gray {
+  background-color: var(--neutral-0);
+}
+.icon-hat-graduation {
+  position: relative;
+  width: 20px;
+  height: 17.37px;
+}
+.phd {
+  position: relative;
+  line-height: 24px;
+}
+.icon-hat-graduation-parent {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: 20px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-0) var(--padding-3xs);
+  gap: var(--gap-5xs);
+}
+.fill-ftriup-icon {
+  position: absolute;
+  top: calc(50% - 5.5px);
+  right: 24px;
+  width: 12px;
+  height: 12px;
+  overflow: hidden;
+  display: none;
+}
+.div18 {
+  align-self: stretch;
+  position: relative;
+  height: 41px;
+}
+.icon-people-team {
+  position: relative;
+  width: 18px;
+  height: 15.43px;
+}
+.cardtitle-parent,
+.image-9-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardtitle-parent {
+  flex: 1;
+  flex-direction: column;
+}
+.image-9-container {
+  flex-direction: row;
+  gap: var(--gap-9xl);
+}
+.category-wrapper4,
+.category11 {
+  width: 779px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+}
+.category-wrapper4 {
+  border-bottom: 1px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: 826px;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-0);
+  text-align: left;
+  font-size: var(--h5-size);
+  color: var(--neutral-600);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,81 @@
+.rectangle2,
+.rectangle3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.rectangle2 {
+  border-radius: var(--br-5xl);
+  background: linear-gradient(35.77deg, #9083d5, #807593);
+  width: 1440px;
+  height: 168.21px;
+}
+.rectangle3 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-15xl-5);
+  background-color: var(--light-background-color);
+  border: 1px solid var(--light-background-color);
+  box-sizing: border-box;
+}
+.create-appointment-n2 {
+  position: absolute;
+  width: 100%;
+  top: calc(50% - 10.5px);
+  left: 0;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.flatprimary2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 370.96px;
+  height: 69px;
+  overflow: hidden;
+}
+.buttonoutlinedprimary-large1 {
+  position: absolute;
+  top: 50px;
+  left: 986.07px;
+  width: 370.96px;
+  height: 69px;
+}
+.pellentesque-ac-bibe1,
+.ready-to-get1 {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.ready-to-get1 {
+  width: 57.23%;
+  top: calc(50% - 42px);
+  font-weight: 900;
+}
+.pellentesque-ac-bibe1 {
+  width: 100%;
+  top: calc(50% + 13px);
+  font-size: var(--font-size-5xl);
+}
+.text2 {
+  position: absolute;
+  top: 42px;
+  left: 98.37px;
+  width: 737.19px;
+  height: 84px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--light-background-color);
+}
+.contact-cta1 {
+  position: relative;
+  width: 1440px;
+  height: 168.21px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+  color: var(--dark-pink);
+  font-family: var(--font-lato);
+}
